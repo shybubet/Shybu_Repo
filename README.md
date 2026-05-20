@@ -5,6 +5,7 @@
 ## Profile Summary
 I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience in supporting enterprise IT environments across Banking, Education, and Managed services, with strong expertise in Microsoft 365, Active Directory, Windows Server, LAN/WAN networking, Cisco firewalls, endpoint support, and infrastructure monitoring.
 
+---
 ## Skills
 | Category | Skills |
 |---|---|
@@ -59,14 +60,16 @@ I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience i
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-blue?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Python](https://img.shields.io/badge/Python-Basic-blue?logo=python&logoColor=white)](https://www.python.org/)
 
+---
+<h2>Projects:</h2>
 
-## Projects
-| Title                                         | Project Link         |
-|---------------------------------------------|----------------------------|
-| AWS Lambda Word Count Automation          | <a href="https://github.com/shybubet/AWS-Lab">AWS Lab</a>|
-| Deploying a Web Application on Amazon EC2 | <a href="https://google.com">AWS Lab</a>|
-| Amazon S3 Bucket Management & Object Access     | <a href="https://google.com">AWS Lab</a>|
+- <b>AWS Projects:</b>
+   - [AWS Lambda Word Count Automation](https://github.com/shybubet/AWS-Lab)
+   - [Deploying a Web Application on Amazon EC2](https://github.com/shybubet/AWS-Lab)
+   - [Amazon S3 Bucket Management & Object Access](https://github.com/shybubet/AWS-Lab)
 
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 ## Certifications
 
@@ -85,3 +88,10 @@ I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Musa%20Shaibu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musa-shaibu-4b0b3835)
 [![GitHub](https://img.shields.io/badge/GitHub-shybubet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shybubet)
 
+---
+<h2>📺 Popular YouTube Videos</h2>
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)

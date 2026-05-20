@@ -3,7 +3,7 @@
 ### IT Support Engineer, Cloud Support Associate, Network Support
 ---
 ### Profile Summary
-I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience in supporting enterprise IT environments across Banking, Education, and Managed services, with strong expertise in Microsoft 365, Active Directory, Windows Server, LAN/WAN networking, Cisco firewalls, endpoint support, and infrastructure monitoring.
+I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience in supporting enterprise IT environments across Banking, Education, and Managed services, with strong expertise in Microsoft 365, Active Directory, Windows Server, LAN/WAN networking, Cisco firewalls, endpoint support, and infrastructure monitoring
 
 ---
 ### Skills
@@ -39,7 +39,6 @@ I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience i
   </a>
 </p>
 
-
 ### Cloud & DevOps
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -60,7 +59,6 @@ I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience i
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-blue?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Python](https://img.shields.io/badge/Python-Basic-blue?logo=python&logoColor=white)](https://www.python.org/)
 
----
 <h2>Projects:</h2>
 
 - <b>AWS Projects:</b>
@@ -79,7 +77,6 @@ I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience i
 [![ITIL Foundation](https://img.shields.io/badge/ITIL-Foundation%20Certificate-6A1B9A?style=for-the-badge&logo=itil&logoColor=white)](https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=D3613B5F-96A2-4EBA-B2EC-DA7A9BBA9462&ts=-2146762453)
 [![Microsoft Certified Professional](https://img.shields.io/badge/Microsoft-Certified%20Professional-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/)
 
-
 ### Contact Info
 
 [![Location](https://img.shields.io/badge/Location-Darlington%2C%20Durham%2C%20UK-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/Darlington,+Durham,+UK)
@@ -89,7 +86,9 @@ I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience i
 [![GitHub](https://img.shields.io/badge/GitHub-shybubet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shybubet)
 
 ---
+
 <h2>📺 Popular YouTube Videos</h2>
+
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)

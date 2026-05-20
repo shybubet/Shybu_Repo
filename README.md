@@ -1,4 +1,4 @@
-# Hi, I'm Musa Shaibu!
+# Hi, I'm Musa!
 
 ### IT Support Engineer, Cloud Support Associate, Network Support
 ---

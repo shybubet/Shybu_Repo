@@ -1,5 +1,7 @@
-# Hello, I'm Musa Shaibu
+# Hi, I'm Musa Shaibu!
 
+### IT Support Engineer, Cloud Support Associate, Network Support
+---
 ## Profile Summary
 I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience in supporting enterprise IT environments across Banking, Education, and Managed services, with strong expertise in Microsoft 365, Active Directory, Windows Server, LAN/WAN networking, Cisco firewalls, endpoint support, and infrastructure monitoring.
 

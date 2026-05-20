@@ -61,8 +61,7 @@ I am an IT Infrastructure & Cloud Support Engineer with 8+ years’ experience i
 ## Projects
 | Title                                         | Project Link         |
 |---------------------------------------------|----------------------------|
-| AWS Lambda Word Count Automation          | <a href="https://google.com">AWS Lab</a>|
-| Building and Accessing an AWS RDS Server  | <a href="https://google.com">AWS Lab</a>|
+| AWS Lambda Word Count Automation          | <a href="https://github.com/shybubet/AWS-Lab">AWS Lab</a>|
 | Deploying a Web Application on Amazon EC2 | <a href="https://google.com">AWS Lab</a>|
 | Amazon S3 Bucket Management & Object Access     | <a href="https://google.com">AWS Lab</a>|
 
